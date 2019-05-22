@@ -1,0 +1,14 @@
+/Users/alessandro/prj/Questionator/QuestionatorAPI/bin/Debug/netcoreapp2.2/QuestionatorAPI.deps.json
+/Users/alessandro/prj/Questionator/QuestionatorAPI/bin/Debug/netcoreapp2.2/QuestionatorAPI.runtimeconfig.json
+/Users/alessandro/prj/Questionator/QuestionatorAPI/bin/Debug/netcoreapp2.2/QuestionatorAPI.runtimeconfig.dev.json
+/Users/alessandro/prj/Questionator/QuestionatorAPI/bin/Debug/netcoreapp2.2/QuestionatorAPI.dll
+/Users/alessandro/prj/Questionator/QuestionatorAPI/bin/Debug/netcoreapp2.2/QuestionatorAPI.pdb
+/Users/alessandro/prj/Questionator/QuestionatorAPI/obj/Debug/netcoreapp2.2/QuestionatorAPI.csprojAssemblyReference.cache
+/Users/alessandro/prj/Questionator/QuestionatorAPI/obj/Debug/netcoreapp2.2/QuestionatorAPI.csproj.CoreCompileInputs.cache
+/Users/alessandro/prj/Questionator/QuestionatorAPI/obj/Debug/netcoreapp2.2/QuestionatorAPI.RazorAssemblyInfo.cache
+/Users/alessandro/prj/Questionator/QuestionatorAPI/obj/Debug/netcoreapp2.2/QuestionatorAPI.RazorAssemblyInfo.cs
+/Users/alessandro/prj/Questionator/QuestionatorAPI/obj/Debug/netcoreapp2.2/QuestionatorAPI.AssemblyInfoInputs.cache
+/Users/alessandro/prj/Questionator/QuestionatorAPI/obj/Debug/netcoreapp2.2/QuestionatorAPI.AssemblyInfo.cs
+/Users/alessandro/prj/Questionator/QuestionatorAPI/obj/Debug/netcoreapp2.2/QuestionatorAPI.RazorTargetAssemblyInfo.cache
+/Users/alessandro/prj/Questionator/QuestionatorAPI/obj/Debug/netcoreapp2.2/QuestionatorAPI.dll
+/Users/alessandro/prj/Questionator/QuestionatorAPI/obj/Debug/netcoreapp2.2/QuestionatorAPI.pdb

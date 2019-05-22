@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuestionatorAPI", "QuestionatorAPI\QuestionatorAPI.csproj", "{3031BC6F-CC84-4253-BA8D-C15595752ACC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuestionatorAPITest", "QuestionatorAPITest\QuestionatorAPITest.csproj", "{BCC0A32E-8527-4101-B05F-23E84502EC40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3031BC6F-CC84-4253-BA8D-C15595752ACC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3031BC6F-CC84-4253-BA8D-C15595752ACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3031BC6F-CC84-4253-BA8D-C15595752ACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3031BC6F-CC84-4253-BA8D-C15595752ACC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCC0A32E-8527-4101-B05F-23E84502EC40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCC0A32E-8527-4101-B05F-23E84502EC40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCC0A32E-8527-4101-B05F-23E84502EC40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCC0A32E-8527-4101-B05F-23E84502EC40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

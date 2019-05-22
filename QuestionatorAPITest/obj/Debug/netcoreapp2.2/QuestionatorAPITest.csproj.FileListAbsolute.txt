@@ -1,0 +1,17 @@
+/Users/alessandro/prj/Questionator/QuestionatorAPITest/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.dll
+/Users/alessandro/prj/Questionator/QuestionatorAPITest/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.pdb
+/Users/alessandro/prj/Questionator/QuestionatorAPITest/bin/Debug/netcoreapp2.2/nunit.engine.netstandard.dll
+/Users/alessandro/prj/Questionator/QuestionatorAPITest/bin/Debug/netcoreapp2.2/QuestionatorAPITest.deps.json
+/Users/alessandro/prj/Questionator/QuestionatorAPITest/bin/Debug/netcoreapp2.2/QuestionatorAPITest.runtimeconfig.json
+/Users/alessandro/prj/Questionator/QuestionatorAPITest/bin/Debug/netcoreapp2.2/QuestionatorAPITest.runtimeconfig.dev.json
+/Users/alessandro/prj/Questionator/QuestionatorAPITest/bin/Debug/netcoreapp2.2/QuestionatorAPITest.dll
+/Users/alessandro/prj/Questionator/QuestionatorAPITest/bin/Debug/netcoreapp2.2/QuestionatorAPITest.pdb
+/Users/alessandro/prj/Questionator/QuestionatorAPITest/bin/Debug/netcoreapp2.2/QuestionatorAPI.dll
+/Users/alessandro/prj/Questionator/QuestionatorAPITest/bin/Debug/netcoreapp2.2/QuestionatorAPI.pdb
+/Users/alessandro/prj/Questionator/QuestionatorAPITest/obj/Debug/netcoreapp2.2/QuestionatorAPITest.csprojAssemblyReference.cache
+/Users/alessandro/prj/Questionator/QuestionatorAPITest/obj/Debug/netcoreapp2.2/QuestionatorAPITest.csproj.CoreCompileInputs.cache
+/Users/alessandro/prj/Questionator/QuestionatorAPITest/obj/Debug/netcoreapp2.2/QuestionatorAPITest.AssemblyInfoInputs.cache
+/Users/alessandro/prj/Questionator/QuestionatorAPITest/obj/Debug/netcoreapp2.2/QuestionatorAPITest.AssemblyInfo.cs
+/Users/alessandro/prj/Questionator/QuestionatorAPITest/obj/Debug/netcoreapp2.2/QuestionatorAPITest.csproj.CopyComplete
+/Users/alessandro/prj/Questionator/QuestionatorAPITest/obj/Debug/netcoreapp2.2/QuestionatorAPITest.dll
+/Users/alessandro/prj/Questionator/QuestionatorAPITest/obj/Debug/netcoreapp2.2/QuestionatorAPITest.pdb
